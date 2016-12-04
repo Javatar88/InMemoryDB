@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Dec 04 05:01:42 EET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0158-c7c7-b000-0000071e5218 
+on database directory memory:E:\workspaces\memoryDataBase\inMemoryDB\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/Mahmoud/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=E:\workspaces\memoryDataBase\inMemoryDB
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
