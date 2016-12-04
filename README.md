@@ -7,4 +7,5 @@ the application will start then you can add,update,delete,print,printall
 
 Example:
 >Java -jar MemoryDB-jar-with-dependencies.jar
+
 >add 1001-Ali-Java Programmer-10000
