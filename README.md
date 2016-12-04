@@ -5,4 +5,6 @@ to run this application from CMD
 navigate in CMD to the folder where the Jar file is located and type "Java -jar MemoryDB-jar-with-dependencies.jar" then press enter
 the application will start then you can add,update,delete,print,printall
 
-add 1001-Ali-Java Programmer-10000
+Example:
+>Java -jar MemoryDB-jar-with-dependencies.jar
+>add 1001-Ali-Java Programmer-10000
